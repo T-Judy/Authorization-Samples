@@ -1,0 +1,17 @@
+{
+  "name": "auth-demo-server",
+  "version": "1.0.0",
+  "description": "Express backend demonstrating Basic Auth, Bearer Token Auth, and JWT Auth",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
