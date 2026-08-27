@@ -27,7 +27,7 @@ The app opens on **http://localhost:5173**.
 
 ## API reference
 
-| Method | Path | Auth required |
+| Method | Path | Auth required |\
 | POST | `/api/basic/login` | body `{username, password}` |\
 | GET  | `/api/basic/dashboard` | `Authorization: Basic` |
 
