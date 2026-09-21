@@ -22,9 +22,6 @@ npm run dev
 
 The app opens on **http://localhost:5173**.
 
-## How each strategy is implemented
-
-
 ## API reference
 
 | Method | Path | Auth required |\
